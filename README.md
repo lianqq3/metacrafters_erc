@@ -27,11 +27,8 @@ Go to the [Remix IDE](https://remix.ethereum.org/) in your web browser. Remix is
 
 ## 4. Deploy the Contract
 1. Navigate to the **Deploy & Run Transactions** tab (left sidebar).
-2. Choose the Environment:
-   - **JavaScript VM**: For testing the contract locally within Remix.
-   - **Injected Web3**: To deploy on a real testnet or mainnet using MetaMask.
-3. Under "Contract", select `ValorantPoints` from the dropdown (it should be listed if the contract compiled successfully).
-4. Click **Deploy** to deploy the contract.
+2. Under "Contract", select `ValorantPoints` from the dropdown (it should be listed if the contract compiled successfully).
+3. Click **Deploy** to deploy the contract.
 
 ---
 
